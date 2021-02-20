@@ -1,3 +1,5 @@
+// main - executando os pacotes
+
 const controller = new NegociacaoController()
 
 document.querySelector('.form')
